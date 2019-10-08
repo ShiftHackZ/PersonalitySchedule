@@ -1,0 +1,16 @@
+C:\Users\ShiftHackZ\source\repos\PersonalitySchedule\PersonalitySchedule\bin\Debug\PersonalitySchedule.exe
+C:\Users\ShiftHackZ\source\repos\PersonalitySchedule\PersonalitySchedule\bin\Debug\PersonalitySchedule.pdb
+C:\Users\ShiftHackZ\source\repos\PersonalitySchedule\PersonalitySchedule\obj\Debug\PersonalitySchedule.Form1.resources
+C:\Users\ShiftHackZ\source\repos\PersonalitySchedule\PersonalitySchedule\obj\Debug\PersonalitySchedule.Properties.Resources.resources
+C:\Users\ShiftHackZ\source\repos\PersonalitySchedule\PersonalitySchedule\obj\Debug\PersonalitySchedule.csproj.GenerateResource.cache
+C:\Users\ShiftHackZ\source\repos\PersonalitySchedule\PersonalitySchedule\obj\Debug\PersonalitySchedule.exe
+C:\Users\ShiftHackZ\source\repos\PersonalitySchedule\PersonalitySchedule\obj\Debug\PersonalitySchedule.pdb
+C:\Users\ShiftHackZ\source\repos\PersonalitySchedule\PersonalitySchedule\obj\Debug\PersonalitySchedule.csprojAssemblyReference.cache
+D:\DEVELOP\C#\PersonalitySchedule\PersonalitySchedule\bin\Debug\PersonalitySchedule.exe
+D:\DEVELOP\C#\PersonalitySchedule\PersonalitySchedule\bin\Debug\PersonalitySchedule.pdb
+D:\DEVELOP\C#\PersonalitySchedule\PersonalitySchedule\obj\Debug\PersonalitySchedule.csprojAssemblyReference.cache
+D:\DEVELOP\C#\PersonalitySchedule\PersonalitySchedule\obj\Debug\PersonalitySchedule.Form1.resources
+D:\DEVELOP\C#\PersonalitySchedule\PersonalitySchedule\obj\Debug\PersonalitySchedule.Properties.Resources.resources
+D:\DEVELOP\C#\PersonalitySchedule\PersonalitySchedule\obj\Debug\PersonalitySchedule.csproj.GenerateResource.cache
+D:\DEVELOP\C#\PersonalitySchedule\PersonalitySchedule\obj\Debug\PersonalitySchedule.exe
+D:\DEVELOP\C#\PersonalitySchedule\PersonalitySchedule\obj\Debug\PersonalitySchedule.pdb
